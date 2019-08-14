@@ -1,2 +1,2 @@
 # kkjeer-dedicated
-For dedicated testing
+For dedicated tenant testing
